@@ -1,7 +1,7 @@
-# Is ChatGPT a game changer for geocoding - a benchmark for geocoding address parsing techniques
+# Revolutionizing Geocoding: The Impact of Large Language Models on Spatial Data Interpretation
 
 
-## Benchmark description
+# Geocoding Parsing Benchmark description
 
 ### Address parsing task
 This repository is the benchmark to evaluate the performance of the **_address parsing_** task, specifically the segmentation of a singular inline postal address description into distinct chunks in accordance with the USPS address component standard, as outlined below.
