@@ -139,3 +139,5 @@ dmypy.json.lock
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 
+benchmark_dataset/geonames/US.txt
+benchmark_dataset/.DS_Store
