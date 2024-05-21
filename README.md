@@ -1,5 +1,8 @@
 # Revolutionizing Geocoding: The Impact of Large Language Models on Spatial Data Interpretation
 
+# Geocoding Dataset
++ `./benchmark_dataset/geonames`
++ `./benchmark_dataset/geonames/readme.md`
 
 # Geocoding Parsing Benchmark description
 
