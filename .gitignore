@@ -141,3 +141,4 @@ dmypy.json.lock
 
 benchmark_dataset/geonames/US.txt
 benchmark_dataset/.DS_Store
+.DS_Store
