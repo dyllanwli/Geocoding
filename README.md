@@ -5,6 +5,7 @@
 dotenv
 langchain
 langchainhub
+langchain_openai
 langchain_community
 langchain_chroma
 ```
