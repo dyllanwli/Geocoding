@@ -1,5 +1,14 @@
 # Revolutionizing Geocoding: The Impact of Large Language Models on Spatial Data Interpretation
 
+# Requirements:
+```
+dotenv
+langchain
+langchainhub
+langchain_community
+langchain_chroma
+```
+
 # Geocoding Dataset
 + `./benchmark_dataset/geonames`
 + `./benchmark_dataset/geonames/readme.md`
